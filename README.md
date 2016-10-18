@@ -9,3 +9,4 @@ Este template es creado para la prueba técnica de Netmidas.
    3- Crear una nueva página en worpress y asignarle el template contact.
    4- En la base de datos de wordpress ejecutar el sql que se encuentra en add_table.sql.
    5- Visitar la pagina que se acaba de crear.
+  Adicionalmente, el template muestra a los usuario registrados, una tabla con la lista de los contactos registrados.
